@@ -14,8 +14,9 @@ body {
   }
   .container1 {
     background-color: #000000;
-    padding: 0;
+    padding: 10px;
     margin: auto;
+      width: 90%;
     opacity: 0.9;
   }
   p {
