@@ -44,34 +44,37 @@ body {
     color: aliceblue;
    }
   .imagen {
-    margin-left: 200px;
+    margin: auto;
   }
   .letrasfotos {
     color: aliceblue;
   }
   .imagen2 {
     display: flex;
+      margin: auto;
   }
   .imagen3 {
     display: flex;
+      margin: auto;
   }
   .imagen4 {
     display: flex;
+      margin: auto;
   }
   .imagen5 {
-    margin-left: 10px;
+    margin: auto;
   }
   
   .cuadrofoto1 {
-  margin: 0%;
+  margin: auto;
   
   }
   
   .cuadrofoto2 {
-    margin-left: 100px;
+    margin: auto;
   }
   .imagen5 {
-    margin: 0%;
+  margin: auto;
   }
   .letrasprincipales {
     color: aqua;
